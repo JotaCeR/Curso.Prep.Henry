@@ -1,0 +1,24 @@
+h1 {
+    color: royalblue;
+}
+
+img {
+    width: 400px;
+}
+
+.thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: goldenrod;
+    padding: 50px;
+    border: 15px solid darkolivegreen;
+}
+
+.spandId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+body {
+    background-image: url(https://wallpapercave.com/wp/wp2240522.jpg);
+}
